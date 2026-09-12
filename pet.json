@@ -1,0 +1,7 @@
+{
+  "id": "dobby",
+  "displayName": "Dobby",
+  "description": "A tiny loyal house-elf companion with enormous ears, expressive eyes, and a simple beige tunic.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
